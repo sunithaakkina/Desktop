@@ -1,0 +1,23 @@
+ *{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+#link h1 {
+    color: pink;
+    border: 15px;
+}
+
+body{
+color: brown;
+border-top: 0cap;
+
+} 
+ol li:hover{
+    color: black;
+   
+}
+ul li {
+    margin:0auto;
+    display: block;    
+}
